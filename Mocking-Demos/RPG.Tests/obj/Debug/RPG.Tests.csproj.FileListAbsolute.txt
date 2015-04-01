@@ -1,0 +1,9 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Mocking-Exercises\RPG.Tests\obj\Debug\RPG.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Mocking-Exercises\RPG.Tests\bin\Debug\RPG.Tests.dll
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Mocking-Exercises\RPG.Tests\bin\Debug\RPG.Tests.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Mocking-Exercises\RPG.Tests\bin\Debug\Moq.dll
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Mocking-Exercises\RPG.Tests\bin\Debug\RPG.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Mocking-Exercises\RPG.Tests\bin\Debug\RPG.pdb
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Mocking-Exercises\RPG.Tests\bin\Debug\Moq.xml
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Mocking-Exercises\RPG.Tests\obj\Debug\RPG.Tests.dll
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\Mocking-Exercises\RPG.Tests\obj\Debug\RPG.Tests.pdb
